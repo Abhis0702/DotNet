@@ -1,0 +1,15 @@
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Shailesh\C#\Day08\WebSolution\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Shailesh\C#\Day08\WebSolution\DAL\bin\Debug\net8.0\DAL.dll
+D:\Shailesh\C#\Day08\WebSolution\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Shailesh\C#\Day08\WebSolution\DAL\bin\Debug\net8.0\BOL.dll
+D:\Shailesh\C#\Day08\WebSolution\DAL\bin\Debug\net8.0\BOL.pdb
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\DAL.dll
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Shailesh\C#\Day08\WebSolution\DAL\obj\Debug\net8.0\ref\DAL.dll
